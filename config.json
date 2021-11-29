@@ -1,0 +1,9 @@
+{
+	"HOST": "localhost",
+	"streamText": {
+		"port": 8080
+	},
+	"streamVideo": {
+		"port": 8081
+	}
+}
